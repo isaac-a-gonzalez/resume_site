@@ -19,15 +19,11 @@
           "percent": 100
         },
         {
-          "name": "Backend Development",
+          "name": "Full Stack Development",
           "percent": 100
         },
         {
           "name": "Customer Service",
-          "percent": 100
-        },
-        {
-          "name": "Public Speaking",
           "percent": 100
         }
       ]
@@ -172,7 +168,7 @@
       "url": "https://github.com/isaac-a-gonzalez"
     }
   ],
-  "role": "Junior Web Developer",
+  "role": "Full Stack Developer",
   "projects": [
     {
       "name": "PointB Careers",

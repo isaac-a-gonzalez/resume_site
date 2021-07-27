@@ -115,6 +115,13 @@
   ],
   "experience": [
     {
+      "role": "Front-end Developer",
+      "company": "Freelance",
+      "description": "Design and build highly-responsive web-based applications using Gatsby JS framework, Contentful headless CMS, and Netlify serverless deployment.",
+      "start": "Feb 2020",
+      "end": "Present"
+    },
+    {
       "role": "Web Development Consultant",
       "company": "PointB",
       "description": "Deployed career website using content management system to meet client deliverables. Collaborated with IT Operations remotely to communicate weekly and daily tasks.",
@@ -168,8 +175,14 @@
       "url": "https://github.com/isaac-a-gonzalez"
     }
   ],
-  "role": "Full Stack Developer",
+  "role": "Front-end Developer",
   "projects": [
+    {
+      "name": "AlexanderTanPhD.com",
+      "company": "Private Practice",
+      "description": "Designed and built highly-responsive desktop & mobile application using Wix website builder. Leveraged SEO features to increase online presence using Google Search Console.",
+      "link": "https://www.alexandertanphd.com/"
+    },
     {
       "name": "PointB Careers",
       "company": "PointB",

@@ -51,6 +51,12 @@
       "type": "tag",
       "subskills": [
         {
+          "name": "Vue.js"
+        },
+        {
+          "name": "Nuxt.js"
+        },
+        {
           "name": "React"
         },
         {
@@ -115,9 +121,16 @@
   ],
   "experience": [
     {
+      "role": "Customer Support Specialist",
+      "company": "HubSpot",
+      "description": "Remotely partnered with customers effectively resolving issues through phone, email, and chat channels by delivering a human and consultative experience through creative, technical problem-solving and thorough knowledge of HubSpot software.",
+      "start": "Sep 2021",
+      "end": "Present"
+    },
+    {
       "role": "Frontend Developer",
       "company": "Freelance",
-      "description": "Design and build highly-responsive web-based applications using Gatsby JS framework, Contentful headless CMS, and Netlify serverless deployment.",
+      "description": "Developed front end Nuxt.js application with Tailwind CSS using Github as version control. Designed and built highly-responsive web-based applications using Gatsby JS framework, Contentful headless CMS, and Netlify serverless deployment.",
       "start": "Feb 2020",
       "end": "Present"
     },
